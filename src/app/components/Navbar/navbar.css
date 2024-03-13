@@ -1,0 +1,44 @@
+.container-navbar{
+    /* width: min(100% - 30px, 840px); */
+    /* margin-inline: auto;     
+    https://web.whatsapp.com/send?phone=5562985759397&text=Gostaria%20de%20informa%C3%A7%C3%B5es%20sobre%20seus%20produtos
+    */
+    width: 100%;
+}
+
+.navbar{
+    background-color: black;    
+    padding: 5px 10px;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar h1{
+    color: white;    
+}
+
+.navbar span{
+    color: #70FF00;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    
+    gap: 10px;    
+}
+
+.contacts {
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    
+    gap: 10px;    
+}
+
+.navbar a{
+    color: white;
+}

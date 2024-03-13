@@ -1,0 +1,35 @@
+.projects{
+    width: 100%;
+    /* max-width: 700px;     */
+    color: #70FF00;    
+}
+    
+.projects h1{
+    margin-bottom: 20px;    
+}
+
+.projects span{
+    color: white;
+}
+
+.gallery{
+    display: flex;       
+    align-items: center;
+    justify-content: center;    
+    
+    gap: 10px;
+}
+
+.gallery-item img {    
+    
+}  
+
+/* .gallery-item:before {
+    display: block;
+    text-align: center;
+    
+    line-height: 200px;
+    font-size: 80px;
+    color: white;
+} */
+
